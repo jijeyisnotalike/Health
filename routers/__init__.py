@@ -1,0 +1,3 @@
+from routers.registration import authentication_router
+from routers.appointment import appointment_router
+from routers.questions import qa_router
